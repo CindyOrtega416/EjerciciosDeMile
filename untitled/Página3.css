@@ -1,0 +1,24 @@
+body {
+
+    background-image: url("https://img1.cgtrader.com/items/148070/b23c0f179d/large/matrix-dojo-3d-model-max-mat.jpg");
+    background-repeat: no-repeat ;
+    background-size: contain;
+    text-align: center;
+}
+
+header{
+
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
+
+footer {
+    color: black;
+}
+.boton{
+    padding-left: 60%;
+    color:white;
+    padding-bottom: 70%;
+}
+

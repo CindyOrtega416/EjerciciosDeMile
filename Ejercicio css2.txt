@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        p{
+            font-family: Arial;
+            color: aqua;
+            font-weight: bold; ;
+        }
+        #principal{
+            font-size:3em;
+        }
+        .mi-titulo{
+            text-decoration: #50ff45; font-family: "Algerian"; text-decoration: underline;
+        }
+        .Mi-lista{
+             list-style-type: lower-greek;
+        }
+        #lista2 {
+            color: blue;
+        }
+        a:link, a:visited {
+            color: crimson;text-decoration: underline;
+        }
+
+    </style>
+</head>
+<body>
+<h1 id="principal">Titulo 1</h1>
+<p>Este es el primer p·rrafo</p>
+<h1 class="mi-titulo">Titulo 2</h1>
+<p>Este es el SeGuNdO P·RRaFo</p>
+<ol class="Mi-lista">
+    <li>Elemento1</li>
+    <li>Elemento2</li>
+</ol>
+<ul id="lista2">
+<li>Elemento 1</li>
+<li>Elemento 2</li>
+</ul>
+<a href="https://es.wikipedia.org/wiki/Wikipedia:Portada">Necesita estudio ese cuerpo</a>
+</body>
+</html>
